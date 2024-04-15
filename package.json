@@ -19,7 +19,7 @@
     "express-session": "^1.15.6",
     "express-validator": "^5.3.1",
     "jsonwebtoken": "^8.4.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.17",
     "mongoose": "^5.4.12",
     "morgan": "^1.9.1",
     "nodemon": "^1.18.10",
